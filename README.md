@@ -1,2 +1,2 @@
-# Muhammad-Naeem
+# Muhammad-Naeem/Coffee Shop Sales Data Analysis(EDA)
 Python-based exploratory data analysis (EDA) of coffee shop sales data using Pandas, NumPy, Matplotlib, and Seaborn to uncover sales trends and business insights.
