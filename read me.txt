@@ -1,0 +1,38 @@
+# Hi 👋 I'm Muhammad Naeem
+
+## Python Data Analyst
+
+I enjoy solving real-world business problems using data.
+
+## Skills
+
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- SQL
+- Excel
+- Jupyter Notebook
+- Statistics
+- Machine Learning (Learning)
+
+## Projects
+
+📊 Coffee Store Sales Analysis
+
+📈 E-commerce Sales Analysis (Coming Soon)
+
+🤖 Machine Learning Projects (Coming Soon)
+
+## Currently Learning
+
+- Scikit-Learn
+- Deep Learning
+- Tableau
+- Power BI
+
+## Connect with me
+
+LinkedIn:
+www.linkedin.com/in/muhammad-naeem-data-analyst
